@@ -1,8 +1,8 @@
 # SDL2-Starter
 
-A SDL2 project templated ready to be used with VSCode on a Mac.
+A SDL2 project template ready to be used with VSCode on a Mac.
 
-A video tutorial is availabe in case you want to follow through the steps and create it by yourself. It's easy and fun! I encourage you to do it by yourself.
+A video tutorial is available in case you want to follow through the steps and create it by yourself. It's easy and fun! I encourage you to do it by yourself.
 
 [![Video Tutorial](https://user-images.githubusercontent.com/1257133/119228064-7e231a80-bb11-11eb-8c4c-4957450a81d4.png)](https://youtu.be/Dyz9O7s7B8w)
 
